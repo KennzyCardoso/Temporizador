@@ -10,6 +10,7 @@ Projeto construído no explorer da Rocketseat.
 
 -HTML
 -CSS
+-JS
 -GIT e Gitgub
 
 ## ❤ Contato
